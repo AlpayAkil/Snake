@@ -1,0 +1,14 @@
+﻿  Quelle.cpp
+C:\Users\alpay\Desktop\C++\Snake\Project1\Quelle.cpp(11,15): error C4430: Fehlender Typspezifizierer - int wird angenommen. Hinweis: "default-int" wird von C++ nicht unterstützt.
+C:\Users\alpay\Desktop\C++\Snake\Project1\Quelle.cpp(11,12): error C2146: Syntaxfehler: Fehlendes ";" vor Bezeichner "dir"
+C:\Users\alpay\Desktop\C++\Snake\Project1\Quelle.cpp(15,5): error C2065: "dir": nichtdeklarierter Bezeichner
+C:\Users\alpay\Desktop\C++\Snake\Project1\Quelle.cpp(42,37): error C2065: "nTail": nichtdeklarierter Bezeichner
+C:\Users\alpay\Desktop\C++\Snake\Project1\Quelle.cpp(73,13): error C2065: "dir": nichtdeklarierter Bezeichner
+C:\Users\alpay\Desktop\C++\Snake\Project1\Quelle.cpp(76,13): error C2065: "dir": nichtdeklarierter Bezeichner
+C:\Users\alpay\Desktop\C++\Snake\Project1\Quelle.cpp(79,13): error C2065: "dir": nichtdeklarierter Bezeichner
+C:\Users\alpay\Desktop\C++\Snake\Project1\Quelle.cpp(82,13): error C2065: "dir": nichtdeklarierter Bezeichner
+C:\Users\alpay\Desktop\C++\Snake\Project1\Quelle.cpp(97,25): error C2065: "nTail": nichtdeklarierter Bezeichner
+C:\Users\alpay\Desktop\C++\Snake\Project1\Quelle.cpp(106,13): error C2065: "dir": nichtdeklarierter Bezeichner
+C:\Users\alpay\Desktop\C++\Snake\Project1\Quelle.cpp(107,5): error C2050: Switch-Ausdruck ist keine Ganzzahl
+C:\Users\alpay\Desktop\C++\Snake\Project1\Quelle.cpp(128,25): error C2065: "nTail": nichtdeklarierter Bezeichner
+C:\Users\alpay\Desktop\C++\Snake\Project1\Quelle.cpp(137,9): error C2065: "nTail": nichtdeklarierter Bezeichner
